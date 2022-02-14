@@ -52,7 +52,8 @@ Untracked files:
 	TestFile.txt
 
 nothing added to commit but untracked files present (use "git add" to track)`
-This is hsowing that there are now files in your repository but they are not being tracked. In order to start tracking them you must add them and then commit. In order to do this type:
+
+This is showing that there are now files in your repository but they are not being tracked. In order to start tracking them you must add them and then commit. In order to do this type:
 
 
 `git add TestFile.txt`
